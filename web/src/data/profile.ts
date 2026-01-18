@@ -176,7 +176,7 @@ export type Profile = {
 };
 
 export const profile: Profile = {
-  name: 'Muhammad Saidov',
+  name: 'Behruz Rustamov',
   role: 'ICT / IT Student | Developer',
   location: 'Tashkent, Uzbekistan',
   shortBio:
@@ -413,9 +413,9 @@ export const profile: Profile = {
     alt: 'Abstract portrait illustration',
   },
   site: {
-    title: 'Muhammad Saidov | ICT / IT Student',
+    title: 'Behruz Rustamov | ICT / IT Student',
     description:
-      'Portfolio of Muhammad Saidov featuring projects, skills, and contact details.',
+      'Portfolio of Behruz Rustamov featuring projects, skills, and contact details.',
     url: 'https://example.com',
     ogImage: '/images/og-image.svg',
   },
@@ -463,3 +463,4 @@ export const profile: Profile = {
     themeToggleLabel: 'Toggle theme',
   },
 };
+
