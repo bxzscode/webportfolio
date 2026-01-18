@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)" />
+  <rect x="140" y="160" width="920" height="480" rx="32" fill="#0b1220" opacity="0.75" />
+  <rect x="200" y="250" width="420" height="70" rx="16" fill="#fdba74" opacity="0.9" />
+  <rect x="200" y="350" width="300" height="60" rx="12" fill="#fb923c" opacity="0.85" />
+  <rect x="200" y="440" width="520" height="60" rx="12" fill="#f97316" opacity="0.8" />
+  <text x="200" y="220" fill="#fff7ed" font-size="36" font-family="Sora, sans-serif">
+    Campus Service Portal
+  </text>
+</svg>
